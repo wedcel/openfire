@@ -27,6 +27,9 @@ import java.util.jar.JarOutputStream;
 import org.jivesoftware.util.Log;
 
 /**
+ * 
+ * nothing
+ * for github test
  * Starts the core XMPP server. A bootstrap class that configures classloaders
  * to ensure easy, dynamic server startup.
  * 
